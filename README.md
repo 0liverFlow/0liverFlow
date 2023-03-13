@@ -25,7 +25,7 @@
 <br/>
                                                                                  
 ### 🧰 Some of my daily Cybersecurity Tools
-<img align="left" alt="Metasploit" onclick="http:.." width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
+<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
 <img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
 <img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
 <img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg">
