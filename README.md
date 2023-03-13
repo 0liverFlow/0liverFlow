@@ -4,7 +4,7 @@
 **`Olivier Konaté (Cybersecurity Enthusiast/Content Creator)`**
 
 - 🔐 Olivier Konaté is passionate about cybersecurity and really enjoys learning and sharing his knowledge.
-- 👨🏾‍💻 Furthermore, he also enjoys resolving problems by building automated tools.
+- 😊 Furthermore, he also enjoys resolving problems by building automated tools.
 - ❤️ His interests are Penetration Testing, Red Teaming, Digital Forensic, OSINT and Programming. 
 - 👬 He is looking to collaborate with everyone who wants to build new things to make the world a better place.
 - 🍀 Favorite quote: *"With software there are only two possibilities: either the users control the program or the program controls the users. If the program controls the users, and the developer controls the program, then the program is an instrument of unjust power. (**Richard Matthew Stallman**)"*
@@ -12,7 +12,7 @@
    - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OLIVIER/)](https://www.linkedin.com/in/OLIVIER/) 
    - [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://olivierkonate.medium.com/)](https://olivierkonate.medium.com/)
 
-### 🧰 Languages and Tools
+### 👨🏾‍💻 Programming Languages
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -23,14 +23,15 @@
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                                                                                  
-
+### 🧰 Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Metasplot" width="30px" style="padding-right:10px;" src="https://www.pngegg.com/en/png-yhufn"/>
 
 <br />
 ### 🚩 Capture The Flag
 
 [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png)](https://tryhackme.com/p/0liverFlow)
-<img src="https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png" >
+
 ### ✍🏾 Latest Blog Posts
-x
+
 
