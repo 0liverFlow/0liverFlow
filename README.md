@@ -4,7 +4,7 @@
 **`Olivier Konaté (Cybersecurity Enthusiast/Content Creator)`**
 
 - 🔐 Olivier Konaté is passionate about cybersecurity and really enjoys learning and sharing his knowledge.
-- 😊 Furthermore, he also enjoys resolving problems by building automated tools.
+- 😊 Furthermore, he loves problems resolving by building if necessary automated tools.
 - ❤️ His interests are Penetration Testing, Red Teaming, Digital Forensic, OSINT and Programming. 
 - 👬 He is looking to collaborate with everyone who wants to build new things to make the world a better place.
 - 🍀 Favorite quote: *"With software there are only two possibilities: either the users control the program or the program controls the users. If the program controls the users, and the developer controls the program, then the program is an instrument of unjust power. (**Richard Matthew Stallman**)"*
@@ -24,7 +24,9 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
                                                                                  
-### 🧰 A few Cybersecurity Tools
+### 🧰 Some daily Cybersecurity Tools
+<img src="[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+](https://tryhackme.com/module/windows-fundamentals)">
 <img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
 <img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
 <img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
