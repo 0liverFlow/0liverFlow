@@ -54,9 +54,6 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Subdomain Enumeration](https://olivierkonate.medium.com/subdomain-enumeration-2c6d4c553df4) <br>
-- [Google Hacking](https://olivierkonate.medium.com/google-hacking-4e261abced5) <br>
-- [What is Python and why you shoud use it](https://olivierkonate.medium.com/what-is-an-api-1bea8064aaba) <br>
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
