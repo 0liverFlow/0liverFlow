@@ -9,7 +9,7 @@
 - 👬 He is looking to collaborate with everyone who wants to build or break stuffs **ethically** 😁.
 - 💬 Ask me about anything <a href="https://github.com/0liverFlow/0liverFlow/issues">here</a>
 -  📫 Want to keep in touch with him: 
-   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OLIVIER/)](https://www.linkedin.com/in/OLIVIER/) 
+   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/konateolivier)](https://www.linkedin.com/in/konateolivier) 
    - [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://olivierkonate.medium.com/)](https://olivierkonate.medium.com/)
 
 ### 👨🏾‍💻 Programming Languages & Platforms
