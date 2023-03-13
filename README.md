@@ -25,7 +25,7 @@
                                                                                  
 ### 🧰 Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Metasplot" width="30px" style="padding-right:10px;" src="https://www.pngegg.com/en/png-yhufn"/>
+<img align="left" alt="Metasplot" width="30px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/122/777/png-clipart-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle.png">
 
 <br />
 ### 🚩 Capture The Flag
