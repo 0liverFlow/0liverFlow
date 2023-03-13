@@ -4,7 +4,7 @@
 **`Olivier Konaté (Cybersecurity Enthusiast/Content Creator)`**
 
 - 🔐 Olivier Konaté is highly passionate about cybersecurity and really enjoys learning and sharing his knowledge.
-- 😊 Furthermore, he loves problems solving and process automation.
+- 😊 Furthermore, he loves problem solving and process automation.
 - ❤️ His interests are Penetration Testing, Red Teaming, Digital Forensic, OSINT and Programming. 
 - 👬 He is looking to collaborate with everyone who wants to build or break stuffs **ethically** 😁.
 - 💬 Ask me about anything <a href="https://github.com/0liverFlow/0liverFlow/issues">here</a>
