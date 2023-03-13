@@ -61,23 +61,14 @@
 
 ### Other things
 <details>
-  <summary>📊GitHub Stats</summary>
-  <table>
-    <tr>
-      <td align="center" style="padding=0;width=50%;">
-        <img src="https://github-readme-stats.vercel.app/api/?username=0liverFlow&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-      </td>
-      <td align="center" style="padding=0;width=50%;">
-        <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=0liverFlow&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-      </td>
-    </tr>
-  </table>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liverFlow" />
+   <img src="https://github-readme-stats.vercel.app/api?username=0liverFlow" />
 </details>
   
 
 <details>
   <summary>🏆GitHub Trophies</summary>
-<img align="left" alt="PakCyberbot's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=0liverFlow&theme=darkhub" />
+<img align="left" alt="0liverFlow's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=0liverFlow&theme=darkhub" />
 </details>
 
 
