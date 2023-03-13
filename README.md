@@ -25,9 +25,15 @@
                                                                                  
 ### 🧰 Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Metasplot" width="30px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/122/777/png-clipart-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle.png">
+<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/122/777/png-clipart-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle.png">
+<img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="">
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="">
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="">
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="">
 
-<br />
+
+
 ### 🚩 Capture The Flag
 
 [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png)](https://tryhackme.com/p/0liverFlow)
