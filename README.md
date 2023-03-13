@@ -4,9 +4,9 @@
 **`Olivier Konaté (Cybersecurity Enthusiast/Content Creator)`**
 
 - 🔐 Olivier Konaté is passionate about cybersecurity and really enjoys learning and sharing his knowledge.
-- 😊 Furthermore, he loves problems resolving by building if necessary automated tools.
+- 😊 Furthermore, he loves problems solving and process automation.
 - ❤️ His interests are Penetration Testing, Red Teaming, Digital Forensic, OSINT and Programming. 
-- 👬 He is looking to collaborate with everyone who wants to build new things to make the world a better place.
+- 👬 He is looking to collaborate with everyone who wants to build or break stuffs **ethically** 😁.
 - 🍀 Favorite quote: *"With software there are only two possibilities: either the users control the program or the program controls the users. If the program controls the users, and the developer controls the program, then the program is an instrument of unjust power. (**Richard Matthew Stallman**)"*
 - 💬 Ask me about anything here
 -  📫 Want to keep in touch with him: 
@@ -53,10 +53,11 @@
 
 
 ### ✍🏾 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
 - [Subdomain Enumeration](https://olivierkonate.medium.com/subdomain-enumeration-2c6d4c553df4) <br>
 - [Google Hacking](https://olivierkonate.medium.com/google-hacking-4e261abced5) <br>
 - [What is Python and why you shoud use it](https://olivierkonate.medium.com/what-is-an-api-1bea8064aaba) <br>
-
+<!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
   <table>
