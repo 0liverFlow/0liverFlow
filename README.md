@@ -52,7 +52,7 @@
 [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png)](https://tryhackme.com/p/0liverFlow)
 
 ### 📊 GitHub Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### ✍🏾 Latest Blog Posts
 - [Subdomain Enumeration](https://olivierkonate.medium.com/subdomain-enumeration-2c6d4c553df4) <br>
