@@ -12,7 +12,7 @@
    - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OLIVIER/)](https://www.linkedin.com/in/OLIVIER/) 
    - [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://olivierkonate.medium.com/)](https://olivierkonate.medium.com/)
 
-### 👨🏾‍💻 Programming Languages
+### 👨🏾‍💻 Programming Languages & Platforms
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -21,10 +21,11 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/><br/>
                                                                                  
-### 🧰 Some of my daily Cybersecurity Tools
+### 🧰 CyberSecurity
 <img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
 <img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
 <img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
@@ -40,13 +41,13 @@
 <img align="left" alt="Beef-Xss" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg">
 <img align="left" alt="FFuf" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg">
 <img align="left" alt="Spiderfoot" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg">
-<br/>
-
+<br/><br/>
 
 ### 🚩 Capture The Flag
 
 [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png)](https://tryhackme.com/p/0liverFlow)
 
+### 📊 GitHub Stats
 ### ✍🏾 Latest Blog Posts
 
 
