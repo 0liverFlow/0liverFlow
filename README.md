@@ -42,6 +42,7 @@
 <img align="left" alt="SET" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/set/images/set-logo.svg">
 <img align="left" alt="Beef-Xss" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg">
 <img align="left" alt="FFuf" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg">
+<img align="left" alt="Nikto" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg">
 <img align="left" alt="Spiderfoot" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg">
 <br/><br/>
 
@@ -50,6 +51,8 @@
 [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png)](https://tryhackme.com/p/0liverFlow)
 
 ### 📊 GitHub Stats
+
+
 ### ✍🏾 Latest Blog Posts
 
 
