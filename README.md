@@ -78,3 +78,5 @@
 <img align="left" alt="0liverFlow's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=0liverFlow&theme=darkhub" />
 </details>
 <br>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=0liverFlow&color=green)
