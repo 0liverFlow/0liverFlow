@@ -7,7 +7,6 @@
 - 😊 Furthermore, he loves problems solving and process automation.
 - ❤️ His interests are Penetration Testing, Red Teaming, Digital Forensic, OSINT and Programming. 
 - 👬 He is looking to collaborate with everyone who wants to build or break stuffs **ethically** 😁.
-- 🍀 Favorite quote: *"With software there are only two possibilities: either the users control the program or the program controls the users. If the program controls the users, and the developer controls the program, then the program is an instrument of unjust power. (**Richard Matthew Stallman**)"*
 - 💬 Ask me about anything here
 -  📫 Want to keep in touch with him: 
    - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OLIVIER/)](https://www.linkedin.com/in/OLIVIER/) 
@@ -78,3 +77,4 @@
   <summary>🏆GitHub Trophies</summary>
 <img align="left" alt="0liverFlow's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=0liverFlow&theme=darkhub" />
 </details>
+<br>
