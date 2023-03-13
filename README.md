@@ -61,11 +61,18 @@
 
 ### Other things
 <details>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liverFlow" />
-   <img src="https://github-readme-stats.vercel.app/api?username=0liverFlow" />
+   <summary>📊GitHub Stats</summary>
+   <table>
+      <tr> 
+         <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liverFlow" />
+         </td>
+         <td>
+             <img src="https://github-readme-stats.vercel.app/api?username=0liverFlow" />
+         </td>
+   </table>
 </details>
   
-
 <details>
   <summary>🏆GitHub Trophies</summary>
 <img align="left" alt="0liverFlow's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=0liverFlow&theme=darkhub" />
