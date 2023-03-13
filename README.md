@@ -23,15 +23,23 @@
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                                                                                  
-### 🧰 Tools
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/122/777/png-clipart-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle.png">
+### 🧰 Some Cybersecurity Tools
+<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
 <img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="">
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="">
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="">
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="">
-
+<img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
+<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg">
+<img align="left" alt="Exploit-DB" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg">
+<img align="left" alt="Sqlmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg">
+<img align="left" alt="JohnTheRipper" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/john/images/john-logo.svg">
+<img align="left" alt="Hashcat" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg">
+<img align="left" alt="Hydra" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg">
+<img align="left" alt="Ettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg">
+<img align="left" alt="Aircrack" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg">
+<img align="left" alt="SET" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/set/images/set-logo.svg">
+<img align="left" alt="Beef-Xss" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg">
+<img align="left" alt="FFuf" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg">
+<img align="left" alt="Spiderfoot" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg">
+<br/>
 
 
 ### 🚩 Capture The Flag
