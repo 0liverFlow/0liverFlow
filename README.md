@@ -29,7 +29,8 @@
 <br />
 
 ### 🚩 Capture The Flag
-<script src="https://tryhackme.com/badge/1521088"</script>
+[![TryHackme](https://tryhackme-badges.s3.amazonaws.com/hellfire0x01.png(https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png))]
 
 ### ✍🏾 Latest Blog Posts
+
 
