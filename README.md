@@ -11,6 +11,7 @@
 -  📫 Want to keep in touch with him: 
    - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OLIVIER/)](https://www.linkedin.com/in/OLIVIER/) 
    - [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://olivierkonate.medium.com/)](https://olivierkonate.medium.com/)
+<br>
 
 ### 👨🏾‍💻 Programming Languages
 
@@ -22,7 +23,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br/>
+<br/><br>
                                                                                  
 ### 🧰 Some of my daily Cybersecurity Tools
 <img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
