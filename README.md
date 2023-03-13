@@ -27,7 +27,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/><br/>
                                                                                  
-### 🧰 CyberSecurity
+### 🧰 Favorite CyberSecurity Tools
 <img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg">
 <img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
 <img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
