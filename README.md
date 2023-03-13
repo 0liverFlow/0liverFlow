@@ -29,8 +29,7 @@
 <br />
 
 ### 🚩 Capture The Flag
-<img src="https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png" alt="TryHackMe">
-
+[![TryHackme] (https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png) (https://tryhackme.com/p/0liverFlow)
 ### ✍🏾 Latest Blog Posts
 x
 
