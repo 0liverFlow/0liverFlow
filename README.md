@@ -54,6 +54,11 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Subdomain Enumeration](https://olivierkonate.medium.com/subdomain-enumeration-2c6d4c553df4?source=rss-24b712d29cc------2)
+- [Google Hacking](https://olivierkonate.medium.com/google-hacking-4e261abced5?source=rss-24b712d29cc------2)
+- [What is an API ?](https://olivierkonate.medium.com/what-is-an-api-1bea8064aaba?source=rss-24b712d29cc------2)
+- [What is Python and why you should use it?](https://olivierkonate.medium.com/what-is-python-and-why-you-should-use-it-48b5926a962d?source=rss-24b712d29cc------2)
+- [What are the differences between threads and processes?](https://olivierkonate.medium.com/whats-the-differences-between-a-thread-and-a-process-8c45ba74065f?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
