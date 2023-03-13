@@ -2,7 +2,7 @@
 
 **`Olivier Konaté (Cybersecurity Enthusiast/Content Creator)`**
 
-**👋 Hello world :)
+** 👋 Hello world :)
 - 🔐 Olivier Konaté is passionate about cybersecurity and really enjoys learning and sharing his knowledge.
 - 👨🏾‍💻 Furthermore, he enjoys resolving problems by building automated tools.
 - ❤️ His interests are penetration testing, programming and cryptography(occasionally). 
