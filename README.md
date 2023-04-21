@@ -1,7 +1,7 @@
 # 0liverflow@github:~/readme.md$ whoami
 ## Hello World <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 
-**`Olivier Konaté (Cybersecurity Enthusiast/Coder /Content Creator)`**
+**`Olivier Konaté (Cybersecurity Enthusiast/Coder/Content Creator)`**
 
 - 🔐 Olivier Konaté is highly passionate about cybersecurity and really enjoys learning and sharing his knowledge.
 - 😊 Furthermore, he loves problem solving and process automation.
