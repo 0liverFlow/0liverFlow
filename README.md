@@ -35,11 +35,11 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Subdomain Enumeration](https://olivierkonate.medium.com/subdomain-enumeration-2c6d4c553df4?source=rss-24b712d29cc------2)
-- [Google Hacking](https://olivierkonate.medium.com/google-hacking-4e261abced5?source=rss-24b712d29cc------2)
-- [What is an API ?](https://olivierkonate.medium.com/what-is-an-api-1bea8064aaba?source=rss-24b712d29cc------2)
-- [What is Python and why you should use it?](https://olivierkonate.medium.com/what-is-python-and-why-you-should-use-it-48b5926a962d?source=rss-24b712d29cc------2)
-- [What are the differences between threads and processes?](https://olivierkonate.medium.com/whats-the-differences-between-a-thread-and-a-process-8c45ba74065f?source=rss-24b712d29cc------2)
+- [Python: Requests Library [Beginner]](https://olivierkonate.medium.com/python-requests-library-beginner-60f59112c71d?source=rss-24b712d29cc------2)
+- [HTTP in detail](https://olivierkonate.medium.com/http-in-detail-922c60125fbe?source=rss-24b712d29cc------2)
+- [Use your terminal like a pro [Info]](https://olivierkonate.medium.com/use-your-terminal-like-a-pro-info-53512ae4430b?source=rss-24b712d29cc------2)
+- [OpenSSL : SSL/TLS Toolkit [Basics]](https://olivierkonate.medium.com/openssl-ssl-tls-toolkit-basics-db390cca7187?source=rss-24b712d29cc------2)
+- [Basic Pentesting: TryHackMe [Easy]](https://olivierkonate.medium.com/basic-pentesting-tryhackme-easy-cf88f2223e7b?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
