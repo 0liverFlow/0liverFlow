@@ -33,11 +33,11 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily create subnets using this ingenious Python script](https://olivierkonate.medium.com/easily-create-subnets-using-this-ingenious-python-script-bb34c0b64ca4?source=rss-24b712d29cc------2)
+- [Easily detect phishing websites using this Python script](https://olivierkonate.medium.com/easily-detect-phishing-websites-using-this-python-script-368216850d8?source=rss-24b712d29cc------2)
 - [Python: Requests Library [Beginner]](https://olivierkonate.medium.com/python-requests-library-beginner-60f59112c71d?source=rss-24b712d29cc------2)
 - [HTTP in detail](https://olivierkonate.medium.com/http-in-detail-922c60125fbe?source=rss-24b712d29cc------2)
 - [Use your terminal like a pro [Info]](https://olivierkonate.medium.com/use-your-terminal-like-a-pro-info-53512ae4430b?source=rss-24b712d29cc------2)
-- [OpenSSL : SSL/TLS Toolkit [Basics]](https://olivierkonate.medium.com/openssl-ssl-tls-toolkit-basics-db390cca7187?source=rss-24b712d29cc------2)
-- [Basic Pentesting: TryHackMe [Easy]](https://olivierkonate.medium.com/basic-pentesting-tryhackme-easy-cf88f2223e7b?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
