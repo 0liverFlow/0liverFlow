@@ -33,11 +33,11 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [eJPTv2 : All You Need To Know](https://olivierkonate.medium.com/ejptv2-all-you-need-to-know-60c3d54ac48f?source=rss-24b712d29cc------2)
 - [Alfred — TryHackMe Writeup](https://olivierkonate.medium.com/alfred-tryhackme-writeup-d3dca737e0fc?source=rss-24b712d29cc------2)
 - [Attacktive Directory: TryHackMe —  Writeup](https://olivierkonate.medium.com/attacktive-directory-tryhackme-writeup-d74dfe07ae?source=rss-24b712d29cc------2)
 - [Easily create subnets using this ingenious Python script](https://olivierkonate.medium.com/easily-create-subnets-using-this-ingenious-python-script-bb34c0b64ca4?source=rss-24b712d29cc------2)
 - [Easily detect phishing websites using this Python script](https://olivierkonate.medium.com/easily-detect-phishing-websites-using-this-python-script-368216850d8?source=rss-24b712d29cc------2)
-- [Python: Requests Library [Beginner]](https://olivierkonate.medium.com/python-requests-library-beginner-60f59112c71d?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
