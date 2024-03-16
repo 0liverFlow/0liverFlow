@@ -33,11 +33,11 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hack The Box : Devel](https://olivierkonate.medium.com/hack-the-box-devel-d4b93caa0b91?source=rss-24b712d29cc------2)
+- [Skynet — TryHackMe Writeup](https://olivierkonate.medium.com/skynet-tryhackme-writeup-a1101714b2a?source=rss-24b712d29cc------2)
 - [Daily Bugle : TryHackMe WriteUp](https://olivierkonate.medium.com/daily-bugle-tryhackme-writeup-9548f549a48e?source=rss-24b712d29cc------2)
 - [Vulnversity : TryHackMe Writeup](https://olivierkonate.medium.com/vulnversity-tryhackme-writeup-3b806c2e9a1d?source=rss-24b712d29cc------2)
 - [Game Zone : TryHackMe Writeup](https://olivierkonate.medium.com/game-zone-tryhackme-writeup-7cdc39f69dd3?source=rss-24b712d29cc------2)
-- [HackPark : TryHackMe Writeup](https://olivierkonate.medium.com/hackpark-tryhackme-writeup-4b88c5c1a936?source=rss-24b712d29cc------2)
-- [Internal : TryHackMe Writeup](https://olivierkonate.medium.com/internal-tryhackme-writeup-4b4d92d26f4d?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
