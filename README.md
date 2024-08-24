@@ -33,11 +33,11 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PNPT : All You Need To Know](https://olivierkonate.medium.com/pnpt-all-you-need-to-know-a949f989e113?source=rss-24b712d29cc------2)
+- [HackTheBox : Timelapse](https://olivierkonate.medium.com/hackthebox-timelapse-fda450df391b?source=rss-24b712d29cc------2)
 - [HackTheBox : Forest](https://olivierkonate.medium.com/hackthebox-forest-05a08a9070eb?source=rss-24b712d29cc------2)
 - [HackTheBox : Sauna](https://olivierkonate.medium.com/hackthebox-sauna-698fcb26c180?source=rss-24b712d29cc------2)
 - [Corp : TryHackMe Writeup](https://olivierkonate.medium.com/corp-tryhackme-writeup-c3ee4ff23da2?source=rss-24b712d29cc------2)
-- [Hack The Box : Bastion](https://olivierkonate.medium.com/hack-the-box-bastion-0fc16996483d?source=rss-24b712d29cc------2)
-- [Retro : TryHackMe Writeup](https://olivierkonate.medium.com/retro-tryhackme-writeup-4efc6472d7b0?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
