@@ -33,11 +33,11 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Perform OS Fingerprinting with Ping ?](https://olivierkonate.medium.com/how-to-perform-os-fingerprinting-with-ping-441d2521a4e7?source=rss-24b712d29cc------2)
 - [HackTheBox : Return](https://olivierkonate.medium.com/hackthebox-return-73fdf3e4a277?source=rss-24b712d29cc------2)
 - [HackTheBox : Help](https://olivierkonate.medium.com/hackthebox-help-a2a4edc474b5?source=rss-24b712d29cc------2)
 - [HackTheBox : Magic](https://olivierkonate.medium.com/hackthebox-magic-f470a87464e5?source=rss-24b712d29cc------2)
 - [HackTheBox : BoardLight](https://olivierkonate.medium.com/hackthebox-boardlight-8ff0e907d7b2?source=rss-24b712d29cc------2)
-- [HackTheBox : Cascade](https://olivierkonate.medium.com/hackthebox-cascade-dff0349ac16c?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
