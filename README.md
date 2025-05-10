@@ -33,11 +33,11 @@
 
 ### ✍🏾 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox : Mailing](https://olivierkonate.medium.com/hackthebox-mailing-b28d1a8f815a?source=rss-24b712d29cc------2)
 - [HackTheBox : Vintage](https://olivierkonate.medium.com/hackthebox-vintage-1f38ae3b262c?source=rss-24b712d29cc------2)
 - [HackTheBox : Aero](https://olivierkonate.medium.com/hackthebox-aero-2c198489b31a?source=rss-24b712d29cc------2)
 - [HackTheBox : Certified](https://olivierkonate.medium.com/hackthebox-certified-885faf108597?source=rss-24b712d29cc------2)
 - [HackTheBox : StreamIO](https://olivierkonate.medium.com/hackthebox-streamio-ee79e5d12e4d?source=rss-24b712d29cc------2)
-- [HackTheBox : Authority](https://olivierkonate.medium.com/hackthebox-authority-efc1168b9d5d?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
 <details>
   <summary>📊GitHub Stats</summary>
