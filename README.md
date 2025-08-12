@@ -1,37 +1,19 @@
-# 0liverflow@github:~/readme.md$ whoami
-## Hello World <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
+# 0liverflow@github:~/readme.md$
 
-**`Olivier Konaté (Cybersecurity Enthusiast/Coder/Content Creator)`**
+<img width="800" height="181" alt="image" src="https://github.com/user-attachments/assets/546d6025-083c-4422-aa19-2cf0418f323a" />
 
-- 🔐 Olivier Konaté is highly passionate about cybersecurity and really enjoys learning and sharing his knowledge.
-- 😊 Furthermore, he loves problem solving and process automation.
-- ❤️ His interests are Penetration Testing, Red Teaming, Digital Forensic, OSINT and Programming. 
-- 👬 He is looking to collaborate with everyone who wants to build or break stuffs **ethically** 😁.
-- 💬 Ask me about anything <a href="https://github.com/0liverFlow/0liverFlow/issues">here</a>
--  📫 Want to keep in touch with him: 
-   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/konateolivier)](https://www.linkedin.com/in/konateolivier) 
-   - [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://olivierkonate.medium.com/)](https://olivierkonate.medium.com/)
+## Whoami 🏴‍☠️
 
-### 👨🏾‍💻 Programming Languages & Platforms
+I'm a cybersecurity specialist working as an application security engineer for an industrial-leading company. <br>
+I am passionate about pentesting, red-teaming, programming and forensics. <br>
+I enjoy learning new techniques, creating tools to automate manual and repetitive tasks and solving CTFs challenges to keep my skills sharp. <br>
+Moreover, I like teaching and sharing my knowledge with others as this allows me to learn more and contribute to the community. <br>
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-<img align="left" alt="MacOS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2/2235.png" />
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1920px-Windows_logo_-_2021.svg.png">
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br/><br/>
-                                                                                 
-### 🚩 Capture The Flag
-<img src="https://tryhackme-badges.s3.amazonaws.com/0liverFlow.png" alt="TryHackMe">
+- 💼 Currently learning: I am currently deepening my knowledge of web and Active Directory attacks
+- 📫 How to reach me: Refer to my [Linktree](https://linktr.ee/0liverFlow)
+- 📚 Fun fact: I like reading and writing
 
-### ✍🏾 Latest Blog Posts
+### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Gather Information From PHPInfo file ?](https://olivierkonate.medium.com/how-to-gather-information-from-phpinfo-file-a38d4193c6f7?source=rss-24b712d29cc------2)
 - [HackTheBox : Support](https://olivierkonate.medium.com/hackthebox-support-251b3f769c18?source=rss-24b712d29cc------2)
