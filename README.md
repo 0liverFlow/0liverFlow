@@ -1,6 +1,10 @@
 # 0liverflow@github:~/readme.md$
 
+<img width="700" height="181" alt="image" src=https://github.com/0liverFlow/0liverFlow/blob/main/assets/banner.png  />
+
+<!--
 <img width="700" height="181" alt="image" src="https://github.com/user-attachments/assets/546d6025-083c-4422-aa19-2cf0418f323a" />
+!>
 
 ## Whoami 🏴‍☠️
 
