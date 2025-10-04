@@ -16,7 +16,7 @@ Moreover, I like teaching and sharing my knowledge with others as this allows me
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [HackTheBox : Planning](https://olivierkonate.medium.com/hackthebox-planning-6dcdd5c9ed2a?source=rss-24b712d29cc------2)
-- [Password Guessing: Advanced Techniques](https://olivierkonate.medium.com/password-guessing-advanced-techniques-26d508e8d82d?source=rss-24b712d29cc------2)
+- [Password Guessing Attacks](https://olivierkonate.medium.com/password-guessing-advanced-techniques-26d508e8d82d?source=rss-24b712d29cc------2)
 - [How to Gather Information From PHPInfo file ?](https://olivierkonate.medium.com/how-to-gather-information-from-phpinfo-file-a38d4193c6f7?source=rss-24b712d29cc------2)
 - [HackTheBox : Support](https://olivierkonate.medium.com/hackthebox-support-251b3f769c18?source=rss-24b712d29cc------2)
 - [HackTheBox : Soccer](https://olivierkonate.medium.com/hackthebox-soccer-d369c340890a?source=rss-24b712d29cc------2)
