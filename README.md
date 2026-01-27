@@ -9,10 +9,6 @@ I am passionate about pentesting, red-teaming, programming and forensics. <br>
 I enjoy learning new techniques, creating tools to automate manual and repetitive tasks, and solving CTFs to keep my skills sharp. <br>
 Moreover, I like teaching and sharing my knowledge with others as this allows me to learn more and contribute to the community. <br>
 
-- 💼 Currently learning: I am currently deepening my knowledge of web and Active Directory attacks
-- 📫 How to reach me: Refer to my [Linktree](https://linktr.ee/0liverFlow)
-- 📚 Fun fact: I like reading and writing
-
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How To Easily Write Pentest Reports With SysReptor](https://olivierkonate.medium.com/how-to-easily-write-pentest-reports-with-sysreptor-42fb8593a653?source=rss-24b712d29cc------2)
