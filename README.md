@@ -11,9 +11,9 @@ Moreover, I like teaching and sharing my knowledge with others as this allows me
 
 ### 📌 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shellerator: A simple yet powerful CLI tool to generate reverse, bind and web shells](https://olivierkonate.medium.com/shellerator-a-simple-yet-powerful-cli-tool-to-generate-reverse-bind-and-web-shells-2af033731d65?source=rss-24b712d29cc------2)
 - [Lessons Learned From OSCP+](https://olivierkonate.medium.com/lessons-learned-from-oscp-f988f00a49a8?source=rss-24b712d29cc------2)
 - [How To Easily Write Pentest Reports With SysReptor](https://olivierkonate.medium.com/how-to-easily-write-pentest-reports-with-sysreptor-42fb8593a653?source=rss-24b712d29cc------2)
 - [HackTheBox : Monitored](https://olivierkonate.medium.com/hackthebox-monitored-90ebc8bb5554?source=rss-24b712d29cc------2)
 - [HackTheBox : Planning](https://olivierkonate.medium.com/hackthebox-planning-6dcdd5c9ed2a?source=rss-24b712d29cc------2)
-- [Password Guessing Attacks](https://olivierkonate.medium.com/password-guessing-advanced-techniques-26d508e8d82d?source=rss-24b712d29cc------2)
 <!-- BLOG-POST-LIST:END -->
