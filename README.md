@@ -9,7 +9,7 @@ I am passionate about pentesting, red-teaming, programming and forensics. <br>
 I enjoy learning new techniques, creating tools to automate manual and repetitive tasks, and solving CTFs to keep my skills sharp. <br>
 Moreover, I like teaching and sharing my knowledge with others as this allows me to learn more and contribute to the community. <br>
 
-### 📌 Latest Blog Posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Shellerator: A simple yet powerful CLI tool to generate reverse, bind and web shells](https://olivierkonate.medium.com/shellerator-a-simple-yet-powerful-cli-tool-to-generate-reverse-bind-and-web-shells-2af033731d65?source=rss-24b712d29cc------2)
 - [Lessons Learned From OSCP+](https://olivierkonate.medium.com/lessons-learned-from-oscp-f988f00a49a8?source=rss-24b712d29cc------2)
