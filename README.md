@@ -2,7 +2,7 @@
 
 <img width="600" height="181" alt="image" src=https://github.com/0liverFlow/0liverFlow/blob/main/assets/banner.png  />
 
-## Whoami 🏴‍☠️
+## Whoami
 
 I'm a cybersecurity specialist working as an application security engineer for an industrial-leading company. <br>
 I am passionate about pentesting, red-teaming, programming and forensics. <br>
