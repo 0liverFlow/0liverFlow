@@ -4,10 +4,10 @@
 
 ## Whoami
 
-I'm a cybersecurity specialist working as an application security engineer for an industrial-leading company. <br>
-I am passionate about pentesting, red-teaming, programming and forensics. <br>
-I enjoy learning new techniques, creating tools to automate manual and repetitive tasks, and solving CTFs to keep my skills sharp. <br>
-Moreover, I like teaching and sharing my knowledge with others as this allows me to learn more and contribute to the community. <br>
+I'm a cybersecurity specialist working as an application security engineer for an industrial-leading company.  
+I am passionate about pentesting, red-teaming, programming and forensics.  
+I enjoy learning new techniques, creating tools to automate manual and repetitive tasks, and solving CTFs to keep my skills sharp.  
+Moreover, I like teaching and sharing my knowledge with others as this allows me to learn more and contribute to the community.  
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
