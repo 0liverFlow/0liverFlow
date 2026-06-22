@@ -1,7 +1,5 @@
 # 0liverFlow@github:~/readme.md$
 
-<img width="600" height="181" alt="image" src=https://github.com/0liverFlow/0liverFlow/blob/main/assets/banner.png  />
-
 ## Whoami
 
 I'm a cybersecurity specialist passionate about pentesting, red-teaming, programming and forensics.  
