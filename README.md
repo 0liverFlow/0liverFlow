@@ -1,16 +1,14 @@
-## Hi there 👋
+## Whoami
 
-<!--
-**0liverFlow/0liverFlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity professional passionate about pentesting, red-teaming, programming and forensics.  
+I enjoy learning new offensive techniques, and creating tools to automate manual and repetitive tasks.   
+I also like teaching and sharing my knowledge with others as this allows me to learn more and contribute to the community.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Shellerator: A simple yet powerful CLI tool to generate reverse, bind and web shells](https://olivierkonate.medium.com/shellerator-a-simple-yet-powerful-cli-tool-to-generate-reverse-bind-and-web-shells-2af033731d65?source=rss-24b712d29cc------2)
+- [Lessons Learned From OSCP+](https://olivierkonate.medium.com/lessons-learned-from-oscp-f988f00a49a8?source=rss-24b712d29cc------2)
+- [How To Easily Write Pentest Reports With SysReptor](https://olivierkonate.medium.com/how-to-easily-write-pentest-reports-with-sysreptor-42fb8593a653?source=rss-24b712d29cc------2)
+- [HackTheBox : Monitored](https://olivierkonate.medium.com/hackthebox-monitored-90ebc8bb5554?source=rss-24b712d29cc------2)
+- [HackTheBox : Planning](https://olivierkonate.medium.com/hackthebox-planning-6dcdd5c9ed2a?source=rss-24b712d29cc------2)
+<!-- BLOG-POST-LIST:END -->
